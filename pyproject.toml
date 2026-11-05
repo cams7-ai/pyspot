@@ -1,0 +1,6 @@
+[project]
+name = "pyspot"
+version = "0.1.0"
+description = "Laboratório didático de Python com execuções Spot fictícias"
+requires-python = ">=3.11"
+dependencies = []
